@@ -137,7 +137,7 @@ const Hero = () => (
     {/* Image: gets bigger as screen size increases */}
     <div className="w-full md:w-1/2 mt-8 md:mt-0 flex justify-center">
       <img
-        src="/src/images/doctor.jpg"
+        src="/images/doctor.jpg"
         alt="Dr. Sharma - Professional Doctor"
         className="w-48 h-48 sm:w-56 sm:h-56 md:w-72 md:h-72 lg:w-80 lg:h-80 rounded-full object-cover shadow-2xl border-4 border-white"
       />
